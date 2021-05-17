@@ -60,12 +60,13 @@ text-decoration: none;
   padding-left: 50px;
   height: auto;
   width: 40%;
+  float: left;
 }
 
 
 .container {
   width: 80%;
-  margin: 0 auto;
+  margin: auto;
 }
 
 
