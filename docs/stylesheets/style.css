@@ -67,14 +67,25 @@ text-decoration: none;
   margin: auto;
 }
 
-.nyheter {
+.nyheter1 {
   font-size: 2rem;
   background-color: #C4C4C4;
   padding-left: 2rem;
   width: 9rem;
   height: 8rem;
-  margin-left: 42rem;
+  margin-left: 36rem;
   cursor: pointer;
+}
+
+.nyheter2 {
+  font-size: 1.8rem;
+  background-color: #C4C4C4;
+  padding-left: 0.5rem;
+  width: 10rem;
+  height: 8rem;
+  margin-left: 50rem;
+  cursor: pointer;
+  margin-top: -14.3%;
 }
 
 .text {
