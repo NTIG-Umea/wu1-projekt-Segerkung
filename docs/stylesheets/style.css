@@ -10,7 +10,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: #C4C4C4;
+  background-color: #ebe6e6;
   box-shadow: 0 4px 2px -2px rgba(0,0,0,0.3);
 }
 
@@ -21,6 +21,10 @@ text-align: center;
 padding: 20px 64px;
 font-size: 42px;
 text-decoration: none;
+}
+
+.navbar a:hover {
+color: #131453;
 }
 
 .navbar img {
@@ -36,7 +40,7 @@ text-decoration: none;
   width: 220px; 
   position: fixed; 
   z-index: 1; 
-  background-color: #C4C4C4;
+  background-color: #ebe6e6;
   overflow-x: hidden; 
   padding-top: 20px;
   font-size: 42px;
@@ -48,6 +52,10 @@ text-decoration: none;
   font-size: 25px;
   color: #121212;
   display: block;
+}
+
+.sidebar a:hover{
+  color: rgb(77, 155, 219);
 }
 
 .main {
@@ -69,26 +77,32 @@ text-decoration: none;
 
 .nyheter1 {
   font-size: 2rem;
-  background-color: #C4C4C4;
+  background-color: #ebe6e6;
   padding-left: 2rem;
   width: 9rem;
   height: 8rem;
   margin-left: 36rem;
   cursor: pointer;
+  border-radius: 25px;
 }
 
 .nyheter2 {
   font-size: 1.8rem;
-  background-color: #C4C4C4;
+  background-color: #ebe6e6;
   padding-left: 0.5rem;
   width: 10rem;
   height: 8rem;
   margin-left: 50rem;
   cursor: pointer;
-  margin-top: -14.3%;
+  margin-top: -14.29%;
+  border-radius: 25px;
+  line-height: 45px;
 }
 
+
+
 .text {
-  font-size: 1.6rem;
-  padding-left: 65%;  
-}
+  font-size: 1.5rem;
+  padding-left: 62%;  
+} 
+
