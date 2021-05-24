@@ -12,3 +12,4 @@ Lektion 4 : Jobbade hemifrån men fixade så att min nyhets-div lade sig bredvid
 
 Lektion 5 : Gjorde klart det sista och fixade till lite så att sidan såg lite mer modern/snyggare ut. Tex rundade kanter och hover-färger på nav och sidebar. Sedan valideradae jag sidan och gjorde andra tester utan att få några större fel, bara några alerts som inte riktigt behöver fixas.
 
+Senare : Ska göra den responsiv innan 8/6. 
