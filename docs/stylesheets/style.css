@@ -108,3 +108,20 @@ padding-top: 1.2rem;
   padding-left: 62%;  
 } 
 
+
+@media (min-width: 900px) {
+  .sidebar {
+  }
+}
+
+@media (min-width: 1280px) {
+  .sidebar {
+  }
+}
+
+@media only screen and (min-width: 376px) {
+    .sidebar {
+  }
+}
+
+
