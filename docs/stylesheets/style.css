@@ -170,11 +170,20 @@ padding-top: 1.2rem;
 
 
   .nyheter1 {
+    padding-top: 10rem;
+    padding-left: 0;
 
   }
 
   .nyheter2 {
 
+  }
+
+  .text {
+    font-size: 20px;
+    padding: 0;
+    text-align: center;
+    padding-top: 19rem;
   }
  
 
