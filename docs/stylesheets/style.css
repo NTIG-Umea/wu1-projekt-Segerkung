@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 body {
@@ -119,9 +120,39 @@ padding-top: 1.2rem;
   }
 }
 
-@media only screen and (min-width: 376px) {
-    .sidebar {
+@media only screen and (max-width: 376px) {
+
+
+  .navbar {
+    width: auto;
+
+  } 
+  
+  .navbar a {
+    font-size: 30px;
+    position: absolute;
+    right: 0;
+    top: 0;  
   }
+
+
+  .sidebar {
+    display: none;
+  }
+
+  .sidebar a {
+    display: none;
+  }
+
+  .schema {
+    display: none;
+  }
+
+  .logga {
+    display: none;
+  }
+
+
 }
 
 
