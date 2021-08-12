@@ -140,7 +140,17 @@ padding-top: 1.2rem;
     padding-bottom: 30px;
     padding-top: 30px;
   }
+  
+  .main {
+     width: auto;
+     margin-left: 0px;
+    }
 
+  .main img{
+     width: 369px;
+     height: 300px;
+     padding: 0;
+    }
 
   .sidebar {
     display: none;
@@ -158,15 +168,17 @@ padding-top: 1.2rem;
     display: none;
   }
 
-  .main img{
-  
+
+  .nyheter1 {
+
   }
 
-  .main {
-    width: auto;
-  }
+  .nyheter2 {
 
+  }
  
+
+
   }
 
 
