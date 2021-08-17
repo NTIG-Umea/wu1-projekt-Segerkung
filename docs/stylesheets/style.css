@@ -110,22 +110,12 @@ padding-top: 1.2rem;
 } 
 
 
-@media (min-width: 900px) {
-  .sidebar {
-  }
-}
-
-@media (min-width: 1280px) {
-  .sidebar {
-  }
-}
 
 @media only screen and (max-width: 376px) {
 
 
   .navbar {
     width: auto;
-
   } 
   
   .navbar a {
@@ -170,13 +160,14 @@ padding-top: 1.2rem;
 
 
   .nyheter1 {
-    padding-top: 10rem;
+    height: 50%;
+    width: 50%;
     padding-left: 0;
 
   }
 
   .nyheter2 {
-
+    display: none;
   }
 
   .text {
